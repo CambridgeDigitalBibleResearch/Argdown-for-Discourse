@@ -1,0 +1,4 @@
+plugins:
+  argdown_enabled:
+    default: true
+    client: true
